@@ -1,0 +1,29 @@
+*********************************
+-myproject/
+    -manage.py
+    -myproject/
+        -__init__.py
+        -settings.py
+        -urls.py
+        -asgi.py
+        -wsgi.py
+    -myapp/
+        -migrations/
+        -__init__.py
+        -admin.py
+        -apps.py
+        -models.py
+        -tests.py
+        -views.py
+        -static/
+            -myapp/
+                -css/
+                -js/
+                -images/
+        -templates/
+            -myapp/
+                -base.html
+                -index.html
+    -static/
+    -media/
+******************************************
